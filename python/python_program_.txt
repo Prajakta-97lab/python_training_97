@@ -1,0 +1,4 @@
+IR - iNSTRUCTION REGISTER
+PC - PROGRAM COUNTER - It holds address of the next instruction to be registered 
+SP - STACK POINT - It holds address of the top frame in the stack
+FP - FRAME POINT - It holds address of the frame of the function which is currently running
